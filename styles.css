@@ -3,9 +3,10 @@ body {
 }
 
 h1 {
-    font-family: Monoton;
+    font-family: Cormorant;
     font-size: 70px;
     margin: 0.2em;
+    color: blue;
 }
 
 h2 {
